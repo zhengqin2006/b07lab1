@@ -1,4 +1,3 @@
-package lab2;
 import java.io.*;
 
 public class Driver{
